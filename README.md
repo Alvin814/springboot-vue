@@ -70,19 +70,3 @@ web-flash包含了成熟的后台管理功能和手机端h5内容站点系统
     - 启动成功后访问 http://localhost:8088/#/index
 - 手机端运行效果图：
     ![mobile](docs/flash-mobile.gif)
-
-## 在线文档
-- [http://enilu.github.io/web-flash](http://enilu.github.io/web-flash)
-- 国内加速版：[http://enilu.gitee.io/web-flash](http://enilu.gitee.io/web-flash)
-
-## 交流
-- 关注公众号：嗨客帝国，点击对应的项目菜单进群交流。
-
-![公众号二维码](docs/img/haike.jpg)
-
-- [社区提问](http://bbs.enilu.cn)
-
-- Gitter: [Gitter channel](https://gitter.im/web-flash/community)
-
-
-[Change Log](http://enilu.gitee.io/web-flash/other/changeLog.html)
